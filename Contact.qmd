@@ -1,0 +1,29 @@
+---
+toc: false
+---
+
+![](Image/contact.jpg)
+
+<strong>For professional inquiries, contact me at:<strong>
+
+
+<div class="contact-card">
+
+<p>
+<strong>Professional Email:</strong>
+<a href="mailto:Kmcdaniel@msm.edu">Kmcdaniel@msm.edu</a>
+</p>
+
+<p>
+<strong>Personal Email:</strong>
+<a href="mailto:Krismc113@gmail.com">Krismc113@gmail.com</a>
+</p>
+
+<p class="social-text">
+<strong>Connect with me:</strong>
+<a href="https://github.com/krismc113" target="_blank">GitHub</a>
+and
+<a href="https://www.linkedin.com/in/kristen-mcdaniel-938a99227/" target="_blank">LinkedIn</a>
+</p>
+
+</div>

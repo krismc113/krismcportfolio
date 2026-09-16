@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Atlanta, GA | August 2025 - Present\n\n\n\n\n\n\n\nWashington, D.C. | August 2021 - May 2025"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kristen McDaniel",
+    "section": "",
+    "text": "Welcome\n\n\nI am a public health graduate student at Morehouse School of Medicine with interests in epidemiology, biostatistics, health equity, and vision health. My work combines public health research and data analysis to better understand health disparities and access to care.\n\nLearn More About Me →"
+  },
+  {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Kristen McDaniel",
+    "section": "",
+    "text": "For professional inquiries, contact me at:\n\n\nProfessional Email: Kmcdaniel@msm.edu\n\n\nPersonal Email: Krismc113@gmail.com\n\n\nConnect with me: GitHub and LinkedIn"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page highlights selected projects in public health, data analysis, and data visualization."
+  },
+  {
+    "objectID": "Projects.html#heat-exposure-and-heat-related-emergency-department-visits-in-new-york-city",
+    "href": "Projects.html#heat-exposure-and-heat-related-emergency-department-visits-in-new-york-city",
+    "title": "Projects",
+    "section": "Heat Exposure and Heat-related Emergency Department Visits in New York City",
+    "text": "Heat Exposure and Heat-related Emergency Department Visits in New York City\nAs part of the LA’s BeST Biostatistics and Data Science Training Program at the Keck School of Medicine of USC, I investigated the association between daily maximum temperature and heat-related emergency department visits in New York City. Using syndromic surveillance data from 2017–2026, I developed directed acyclic graphs (DAGs) to identify potential confounders and applied quasi-Poisson regression to model the relationship between temperature and emergency department visits. I also generated predictions for 2026 and interpreted the findings in the context of heat-related public health risks.\nThis project strengthened my skills in data management, causal inference, statistical modeling, data analysis, and scientific communication, while demonstrating how biostatistical and epidemiologic methods can be used to address real-world public health questions.\n\n\n View Presentation →"
+  },
+  {
+    "objectID": "Projects.html#the-student-nutrition-and-access-reform-act-food-insecurity-amongst-atlanta-university-students",
+    "href": "Projects.html#the-student-nutrition-and-access-reform-act-food-insecurity-amongst-atlanta-university-students",
+    "title": "Projects",
+    "section": "The Student Nutrition and Access Reform Act: Food Insecurity amongst Atlanta University Students",
+    "text": "The Student Nutrition and Access Reform Act: Food Insecurity amongst Atlanta University Students\nAs a Lowery Institute Change Agent, I worked with a team to examine food insecurity among college students, with a focus on HBCUs and other underserved communities. Our work explored gaps in existing SNAP policies, including restrictive eligibility and work requirements, limited access to nutritious foods, and the impact of food deserts on college students. We developed the Student Nutrition and Access Reform Act, a legislative proposal recommending expanded SNAP eligibility, a College EBT (C-EBT) program, regional cost-of-living adjustments, and grants to improve access to grocery stores and campus food resources.\nThis project strengthened my skills in policy research, advocacy, collaborative problem-solving, and translating research findings into actionable policy recommendations."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Professional Biography\nCurrently, I am a second year Master of Public Health at Morehouse School of Medicine with a focus in biostatistics and epidemiology. After earning my Bachelor of Science in Biology at Howard University, I have continued to pursue opportunities to refine my skills and broaden my understanding of health disparities, preparing me to pursue a career that integrates clinical care and public health advocacy.\n\n\nInterests\nI am particularly interested in community development and engagement, drafting and implementing health policies, and researching disparities to design impactful interventions. Growing up as a Black woman in a predominantly Black community, I have witnessed the profound impact of health inequities, including limited access to resources, disparities in care quality, and targeted marketing of harmful products like tobacco and alcohol. Such challenges underscore the pressing need for systemic change to address the socioeconomic determinants that disproportionately affect minority groups, particularly the Black community.\n\n\nSkills\nProficient in R/RStudio, SAS 9.4, Python, SQL, and GIS with experience in epidemiologic and biostatistical data analysis, data cleaning and management, statistical modeling, data visualization, and research methods. Skilled in applying regression analysis, ANOVA, machine learning, and epidemiologic methods to analyze public health data. Experienced with NHANES, BRFSS, and other health datasets, as well as communicating findings through reports, presentations, and data visualizations."
+  },
+  {
+    "objectID": "CV.html#for-more-information-you-may-view-my-current-curriculum-vitae",
+    "href": "CV.html#for-more-information-you-may-view-my-current-curriculum-vitae",
+    "title": "Curriculum Vitae",
+    "section": "For more information, you may view my current curriculum vitae:",
+    "text": "For more information, you may view my current curriculum vitae:"
+  },
+  {
+    "objectID": "CV.html#morehouse-school-of-medicine",
+    "href": "CV.html#morehouse-school-of-medicine",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Atlanta, GA | August 2025 - Present"
+  },
+  {
+    "objectID": "CV.html#howard-university",
+    "href": "CV.html#howard-university",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Washington, D.C. | August 2021 - May 2025"
+  },
+  {
+    "objectID": "CV.html#illinois-department-of-public-health",
+    "href": "CV.html#illinois-department-of-public-health",
+    "title": "Curriculum Vitae",
+    "section": "Illinois Department of Public Health",
+    "text": "Illinois Department of Public Health\n\nSpringfield, IL | August 2026 - Present | Public Health Data and Policy Intern\n\nAnalyze healthcare access and population health data across Illinois.\nContribute to a statewide report on patient access to care and health outcomes.\nApply epidemiologic and data analysis methods to identify health disparities.\nUse data-driven findings to inform health policy and decision-making.\nTranslate analyses into actionable insights for policymakers and public health stakeholders."
+  },
+  {
+    "objectID": "CV.html#visionworks",
+    "href": "CV.html#visionworks",
+    "title": "Curriculum Vitae",
+    "section": "Visionworks",
+    "text": "Visionworks\n\nLithonia, GA | August 2025 - Present | Clinical Specialist\n\nConduct clinical pre-testing and assisting optometrists with comprehensive eye examinations while ensuring meticulous Electronic Health Record (EHR) documentation.\nManage patient scheduling, insurance verification workflows, and front desk administrative operations.\nAdvise patients on customized eyewear solutions, provided clinical instruction on contact lens insertion and care, and maintained strict HIPAA compliance regarding protected health information."
+  },
+  {
+    "objectID": "Contact.html#for-professional-inquiries-contact-me-at",
+    "href": "Contact.html#for-professional-inquiries-contact-me-at",
+    "title": "Contact",
+    "section": "",
+    "text": "Professional Email: Kmcdaniel@msm.edu\n\n\nPersonal Email: Krismc113@gmail.com\n\n\nConnect with me: GitHub and LinkedIn"
+  }
+]

@@ -1,0 +1,41 @@
+---
+title: "Projects"
+---
+
+This page highlights selected projects in public health, data analysis, and data visualization.
+
+## Heat Exposure and Heat-related Emergency Department Visits in New York City
+
+As part of the LA’s BeST Biostatistics and Data Science Training Program at the Keck School of Medicine of USC, I investigated the association between daily maximum temperature and heat-related emergency department visits in New York City. Using syndromic surveillance data from 2017–2026, I developed directed acyclic graphs (DAGs) to identify potential confounders and applied quasi-Poisson regression to model the relationship between temperature and emergency department visits. I also generated predictions for 2026 and interpreted the findings in the context of heat-related public health risks.
+
+This project strengthened my skills in data management, causal inference, statistical modeling, data analysis, and scientific communication, while demonstrating how biostatistical and epidemiologic methods can be used to address real-world public health questions.
+
+<iframe 
+  src="Document/Lasbest.pdf" 
+  width="100%" 
+  height="700px">
+</iframe>
+
+<a href="https://vimeo.com/reviews/ec55458a-0f5f-4d21-8c7e-d24680d8e4d3/videos/1203908841"
+   target="_blank"
+   class="project-button">
+  View Presentation →
+</a>
+
+## The Student Nutrition and Access Reform Act: Food Insecurity amongst Atlanta University Students
+
+As a Lowery Institute Change Agent, I worked with a team to examine food insecurity among college students, with a focus on HBCUs and other underserved communities. Our work explored gaps in existing SNAP policies, including restrictive eligibility and work requirements, limited access to nutritious foods, and the impact of food deserts on college students. We developed the Student Nutrition and Access Reform Act, a legislative proposal recommending expanded SNAP eligibility, a College EBT (C-EBT) program, regional cost-of-living adjustments, and grants to improve access to grocery stores and campus food resources.
+
+This project strengthened my skills in policy research, advocacy, collaborative problem-solving, and translating research findings into actionable policy recommendations.
+
+<iframe 
+  src="Document/Food.pdf" 
+  width="100%" 
+  height="700px">
+</iframe>
+
+<iframe 
+  src="Document/House.pdf" 
+  width="100%" 
+  height="700px">
+</iframe>
