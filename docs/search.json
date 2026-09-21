@@ -10,15 +10,15 @@
     "objectID": "CV.html#morehouse-school-of-medicine",
     "href": "CV.html#morehouse-school-of-medicine",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Atlanta, GA | August 2025 - Present"
+    "section": "Morehouse School of Medicine",
+    "text": "Morehouse School of Medicine\n\nAtlanta, GA | August 2025 - Present\n\nMaster of Public Health | GPA: 3.8"
   },
   {
     "objectID": "CV.html#howard-university",
     "href": "CV.html#howard-university",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Washington, D.C. | August 2021 - May 2025"
+    "section": "Howard University",
+    "text": "Howard University\n\nWashington, D.C. | August 2021 - May 2025\n\nBachelor of Science in Biology | Chemistry minor | GPA: 3.4"
   },
   {
     "objectID": "CV.html#illinois-department-of-public-health",
@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "Kristen McDaniel",
     "section": "",
-    "text": "Welcome\n\n\nI am a public health graduate student at Morehouse School of Medicine with interests in epidemiology, biostatistics, health equity, and vision health. My work combines public health research and data analysis to better understand health disparities and access to care.\n\nLearn More About Me →"
+    "text": "I am a public health graduate student at Morehouse School of Medicine with interests in epidemiology, biostatistics, health equity, and vision health. My work combines public health research and data analysis to better understand health disparities and access to care.\n\nLearn More About Me →"
   },
   {
     "objectID": "Contact.html",
@@ -81,6 +81,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Professional Biography\n\nCurrently, I am a second year Master of Public Health at Morehouse School of Medicine with a focus in biostatistics and epidemiology. After earning my Bachelor of Science in Biology at Howard University, I have continued to pursue opportunities to refine my skills and broaden my understanding of health disparities, preparing me to pursue a career that integrates clinical care and public health advocacy.\n\n\n\nInterests\n\nI am particularly interested in community development and engagement, drafting and implementing health policies, and researching disparities to design impactful interventions. Growing up as a Black woman in a predominantly Black community, I have witnessed the profound impact of health inequities, including limited access to resources, disparities in care quality, and targeted marketing of harmful products like tobacco and alcohol. Such challenges underscore the pressing need for systemic change to address the socioeconomic determinants that disproportionately affect minority groups, particularly the Black community.\n\n\n\nSkills\n\nProficient in R/RStudio, SAS 9.4, Python, SQL, and GIS with experience in epidemiologic and biostatistical data analysis, data cleaning and management, statistical modeling, data visualization, and research methods. Skilled in applying regression analysis, ANOVA, machine learning, and epidemiologic methods to analyze public health data. Experienced with NHANES, BRFSS, and other health datasets, as well as communicating findings through reports, presentations, and data visualizations."
+    "text": "Currently, I am a second year Master of Public Health at Morehouse School of Medicine with a focus in biostatistics and epidemiology. After earning my Bachelor of Science in Biology at Howard University, I have continued to pursue opportunities to refine my skills and broaden my understanding of health disparities, preparing me to pursue a career that integrates clinical care and public health advocacy.\n\n\n\nI am particularly interested in community development and engagement, drafting and implementing health policies, and researching disparities to design impactful interventions. Growing up as a Black woman in a predominantly Black community, I have witnessed the profound impact of health inequities, including limited access to resources, disparities in care quality, and targeted marketing of harmful products like tobacco and alcohol. Such challenges underscore the pressing need for systemic change to address the socioeconomic determinants that disproportionately affect minority groups, particularly the Black community.\n\n\n\nProficient in R/RStudio, SAS 9.4, Python, SQL, and GIS with experience in epidemiologic and biostatistical data analysis, data cleaning and management, statistical modeling, data visualization, and research methods. Skilled in applying regression analysis, ANOVA, machine learning, and epidemiologic methods to analyze public health data. Experienced with NHANES, BRFSS, and other health datasets, as well as communicating findings through reports, presentations, and data visualizations."
+  },
+  {
+    "objectID": "CV.html#for-more-information",
+    "href": "CV.html#for-more-information",
+    "title": "Curriculum Vitae",
+    "section": "For more information,",
+    "text": "For more information,\nyou may view my current curriculum vitae:"
   }
 ]

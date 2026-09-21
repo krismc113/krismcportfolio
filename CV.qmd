@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 ---
 
 
-# Education
+![](Image/edu.jpg)
 
 
 ## Morehouse School of Medicine
@@ -23,7 +23,7 @@ Washington, D.C. | August 2021 - May 2025
 ### Bachelor of Science in Biology | Chemistry minor | GPA: 3.4
 
 
-# Work Experience
+![](Image/work.jpg)
 
 
 ## Illinois Department of Public Health
@@ -52,8 +52,7 @@ operations.
 - Advise patients on customized eyewear solutions, provided clinical instruction on contact lens insertion and care, and maintained strict HIPAA compliance regarding protected health information.
 
 
-## For more information, 
-you may view my current curriculum vitae:
+## For more information, you may view my current curriculum vitae:
 
 <iframe 
   src="Document/2026_CV_KMcDaniel.pdf" 

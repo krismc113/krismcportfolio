@@ -6,7 +6,7 @@ image-alt: "Kristen McDaniel"
 ![](Image/home.png)
 <div class="welcome-section">
 
-<h2>Welcome</h2>
+![](Image/welcome.jpg)
 
 <div class="text-box">
 I am a public health graduate student at Morehouse School of Medicine with interests in
