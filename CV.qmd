@@ -52,7 +52,8 @@ operations.
 - Advise patients on customized eyewear solutions, provided clinical instruction on contact lens insertion and care, and maintained strict HIPAA compliance regarding protected health information.
 
 
-## For more information, you may view my current curriculum vitae:
+## For more information, 
+you may view my current curriculum vitae:
 
 <iframe 
   src="Document/2026_CV_KMcDaniel.pdf" 

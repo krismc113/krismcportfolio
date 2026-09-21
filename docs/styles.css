@@ -135,3 +135,16 @@ body {
 #TOC a:hover {
   color: #89A3FF !important;
 }
+
+.text-box {
+  border: 2px solid #180A74;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.text-box {
+  background-color: #BCC8FB;
+  padding: 20px;
+  border-radius: 10px;
+}

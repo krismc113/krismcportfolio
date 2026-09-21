@@ -8,12 +8,12 @@ image-alt: "Kristen McDaniel"
 
 <h2>Welcome</h2>
 
-<p>
+<div class="text-box">
 I am a public health graduate student at Morehouse School of Medicine with interests in
 <strong>epidemiology, biostatistics, health equity, and vision health</strong>.
 My work combines public health research and data analysis to better understand health
 disparities and access to care.
-</p>
+</div>
 
 <a href="about.qmd" class="about-button">Learn More About Me →</a>
 

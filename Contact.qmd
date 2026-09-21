@@ -7,7 +7,7 @@ toc: false
 <strong>For professional inquiries, contact me at:<strong>
 
 
-<div class="contact-card">
+<div class="text-box">
 
 <p>
 <strong>Professional Email:</strong>
