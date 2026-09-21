@@ -45,6 +45,10 @@ h2 {
   color: #4e66bb;
 }
 
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
 /* Welcome Section */
 .welcome-section {
   text-align: center;
