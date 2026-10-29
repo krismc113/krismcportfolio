@@ -43,3 +43,17 @@ This project strengthened my skills in policy research, advocacy, collaborative 
   width="100%" 
   height="700px">
 </iframe>
+
+## Interactive Gapminder Data Visualization Project
+
+<div class="text-box">
+Developed an interactive data visualization project using Gapminder data to explore relationships between life expectancy, GDP per capita, population, and geographic region over time. The project incorporates interactive scatterplots, time-series visualizations, and searchable data tables to help users identify patterns, compare countries and continents, and explore global health and economic trends.
+
+To improve accessibility, I also incorporated static visualizations, written summaries, and downloadable data, ensuring that key findings remain accessible to users who cannot use interactive features. This project strengthened my skills in data visualization, interactive reporting, accessibility, and communicating complex data through R, Quarto, and Plotly.
+</div>
+
+<iframe 
+  src="Lab07.html" 
+  width="100%" 
+  height="700px">
+</iframe>

@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Atlanta, GA | August 2025 - Present\n\n\n\n\n\n\n\nWashington, D.C. | August 2021 - May 2025"
-  },
-  {
     "objectID": "CV.html#morehouse-school-of-medicine",
     "href": "CV.html#morehouse-school-of-medicine",
     "title": "Curriculum Vitae",
@@ -77,17 +70,17 @@
     "text": "The Student Nutrition and Access Reform Act: Food Insecurity amongst Atlanta University Students\n\nAs a Lowery Institute Change Agent, I worked with a team to examine food insecurity among college students, with a focus on HBCUs and other underserved communities. Our work explored gaps in existing SNAP policies, including restrictive eligibility and work requirements, limited access to nutritious foods, and the impact of food deserts on college students. We developed the Student Nutrition and Access Reform Act, a legislative proposal recommending expanded SNAP eligibility, a College EBT (C-EBT) program, regional cost-of-living adjustments, and grants to improve access to grocery stores and campus food resources.\nThis project strengthened my skills in policy research, advocacy, collaborative problem-solving, and translating research findings into actionable policy recommendations."
   },
   {
+    "objectID": "Projects.html#interactive-gapminder-data-visualization-project",
+    "href": "Projects.html#interactive-gapminder-data-visualization-project",
+    "title": "Projects",
+    "section": "Interactive Gapminder Data Visualization Project",
+    "text": "Interactive Gapminder Data Visualization Project\n\nDeveloped an interactive data visualization project using Gapminder data to explore relationships between life expectancy, GDP per capita, population, and geographic region over time. The project incorporates interactive scatterplots, time-series visualizations, and searchable data tables to help users identify patterns, compare countries and continents, and explore global health and economic trends.\nTo improve accessibility, I also incorporated static visualizations, written summaries, and downloadable data, ensuring that key findings remain accessible to users who cannot use interactive features. This project strengthened my skills in data visualization, interactive reporting, accessibility, and communicating complex data through R, Quarto, and Plotly."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "Currently, I am a second year Master of Public Health at Morehouse School of Medicine with a focus in biostatistics and epidemiology. After earning my Bachelor of Science in Biology at Howard University, I have continued to pursue opportunities to refine my skills and broaden my understanding of health disparities, preparing me to pursue a career that integrates clinical care and public health advocacy.\n\n\n\nI am particularly interested in community development and engagement, drafting and implementing health policies, and researching disparities to design impactful interventions. Growing up as a Black woman in a predominantly Black community, I have witnessed the profound impact of health inequities, including limited access to resources, disparities in care quality, and targeted marketing of harmful products like tobacco and alcohol. Such challenges underscore the pressing need for systemic change to address the socioeconomic determinants that disproportionately affect minority groups, particularly the Black community.\n\n\n\nProficient in R/RStudio, SAS 9.4, Python, SQL, and GIS with experience in epidemiologic and biostatistical data analysis, data cleaning and management, statistical modeling, data visualization, and research methods. Skilled in applying regression analysis, ANOVA, machine learning, and epidemiologic methods to analyze public health data. Experienced with NHANES, BRFSS, and other health datasets, as well as communicating findings through reports, presentations, and data visualizations."
-  },
-  {
-    "objectID": "CV.html#for-more-information",
-    "href": "CV.html#for-more-information",
-    "title": "Curriculum Vitae",
-    "section": "For more information,",
-    "text": "For more information,\nyou may view my current curriculum vitae:"
   }
 ]
