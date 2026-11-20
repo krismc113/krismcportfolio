@@ -44,16 +44,14 @@ This project strengthened my skills in policy research, advocacy, collaborative 
   height="700px">
 </iframe>
 
-## Interactive Gapminder Data Visualization Project
+## Illinois Hospital CHNA and County IPLAN Comparison
 
 <div class="text-box">
-Developed an interactive data visualization project using Gapminder data to explore relationships between life expectancy, GDP per capita, population, and geographic region over time. The project incorporates interactive scatterplots, time-series visualizations, and searchable data tables to help users identify patterns, compare countries and continents, and explore global health and economic trends.
+This project examines community health needs, healthcare access, and geographic differences across Illinois. By integrating hospital Community Health Needs Assessments (CHNAs), local health department Illinois Project for Local Assessment of Needs (IPLAN) priorities, and county-level demographic and socioeconomic data, the analysis explores how public health priorities and community characteristics vary across the state.
 
-To improve accessibility, I also incorporated static visualizations, written summaries, and downloadable data, ensuring that key findings remain accessible to users who cannot use interactive features. This project strengthened my skills in data visualization, interactive reporting, accessibility, and communicating complex data through R, Quarto, and Plotly.
+A central focus of the project is examining alignment between hospital-identified health needs and local public health priorities. Analyses also explore how geographic location, poverty, insurance coverage, and population characteristics relate to differences in community health priorities. Together, these findings provide insight into the distribution of health needs and disparities across Illinois.
 </div>
 
-<iframe 
-  src="Document/Lab07.html" 
-  width="100%" 
-  height="700px">
-</iframe>
+<p class="social-text">
+<strong>Connect with me:</strong>
+<a href="https://krismc113.github.io/Illinois/" target="_blank">GitHub</a>
