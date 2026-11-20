@@ -52,5 +52,8 @@ This project examines community health needs, healthcare access, and geographic 
 A central focus of the project is examining alignment between hospital-identified health needs and local public health priorities. Analyses also explore how geographic location, poverty, insurance coverage, and population characteristics relate to differences in community health priorities. Together, these findings provide insight into the distribution of health needs and disparities across Illinois.
 </div>
 
-<p class="social-text">
-<a href="https://krismc113.github.io/Illinois/" target="_blank">Project Website</a>
+<a href="https://krismc113.github.io/Illinois/"
+   target="_blank"
+   class="project-button">
+  View Website →
+</a>
