@@ -53,5 +53,4 @@ A central focus of the project is examining alignment between hospital-identifie
 </div>
 
 <p class="social-text">
-<strong>Connect with me:</strong>
-<a href="https://krismc113.github.io/Illinois/" target="_blank">GitHub</a>
+<a href="https://krismc113.github.io/Illinois/" target="_blank">Project Website</a>
